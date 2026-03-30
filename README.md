@@ -1,6 +1,6 @@
-# Gusto - Recipe Generation app
+# AuraCook - Recipe Generation app
 
-Gusto is an mobile application for identifying food items and using an algorithm to suggest meals based on identified ingredients. The food recognition machine learning model uses Term Frequency - Inverse Document Frequency (TF-IDF) and Cosine Similarity to generate these recipes. The application will be able to display top recipes, generate recipes, scan for food and recognise them as well.
+AuraCook is an mobile application for identifying food items and using an algorithm to suggest meals based on identified ingredients. The food recognition machine learning model uses Term Frequency - Inverse Document Frequency (TF-IDF) and Cosine Similarity to generate these recipes. The application will be able to display top recipes, generate recipes, scan for food and recognise them as well.
 
 ## Table of Contents
 
